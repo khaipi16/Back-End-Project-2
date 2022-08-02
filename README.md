@@ -4,69 +4,27 @@ The CashMo application is a financial application with social media elements. It
 
 Requirements
 Users can:
-Register
-Login/Logout
-Fund their account
-Withdraw from their account
-Add other users as friends
-Request payment only from friends
-Send payment only to friends
-View the past transactions
-View transactions of friends
+- Register
+- Login/Logout
+- Fund their account
+- Withdraw from their account
+- Add other users as friends
+- Request payment only from friends
+- Send payment only to friends
+- View the past transactions
+- View transactions of friends
 
 Technologies to be used for P2	
-HTML	
-CSS	
-JavaScript	
-React	
-MySQL
-AWS	
-Hibernate	
-Spring Framework
-Java	
-BootStrap
-Postman
-Maven
-Git
-
-
-
-
-
-
-FUNCTIONALITIES
-
-
-
-Tables:
-
-User
-Username (PK)
-Password
-First Name:
-Last Name:
-Phone number
-Email
-
-Transaction
-ID PK
-Type (request or sending)
-Amount:
-Comment:
-Date:
-Status:
-Origin FK to username
-Destination FK to username
-
-Account
-ID PK
-Balance
-Bank Account ID FK
-
-Bank Account
-ID PK
-Name
-Routing Number
-
-
-
+- HTML	
+- CSS	
+- JavaScript	
+- React	
+- MySQL
+- AWS	
+- Hibernate	
+- Spring Framework
+- Java	
+- BootStrap
+- Postman
+- Maven
+- Git
